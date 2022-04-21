@@ -1,4 +1,4 @@
-Package: generativeart
+Package: generativeart-csp
 Title: Create Generative Art with R
 Version: 1.0
 Authors@R: person("Katharina", "Brunner", email = "mail@katharina-brunner.de", role = c("aut", "cre"))
